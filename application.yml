@@ -1,0 +1,11 @@
+Thread:
+  Boundary:
+    min: 1
+    max: 10
+  Concurrency:
+    ThreadCount: 3
+Transient:
+  default:
+    Variable: GLOBAL - Access
+    env: default
+duration: all
