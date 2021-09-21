@@ -6,6 +6,6 @@ Thread:
     ThreadCount: 3
 Transient:
   default:
-    Variable: Trading-daemon UAT - Access
+    Variable: dmn-application UAT - Access
     env: UAT
 duration: all

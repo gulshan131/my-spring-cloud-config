@@ -6,6 +6,6 @@ Thread:
     ThreadCount: 3
 Transient:
   default:
-    Variable: trading-daemon PROD - Access
-    env: PROD
+    Variable: dmn application Default - Access
+    env: default
 duration: all
