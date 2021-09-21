@@ -6,6 +6,6 @@ Thread:
     ThreadCount: 3
 Transient:
   default:
-    Variable: Repo-Batch PROD - Access
-    env: PROD
+    Variable: application#1 QA - Access
+    env: QA
 duration: all

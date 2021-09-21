@@ -6,6 +6,6 @@ Thread:
     ThreadCount: 3
 Transient:
   default:
-    Variable: Repo-Batch UAT - Access
+    Variable: application#1 PROD - Access
     env: UAT
 duration: all

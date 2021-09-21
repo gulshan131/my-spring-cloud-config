@@ -6,6 +6,6 @@ Thread:
     ThreadCount: 3
 Transient:
   default:
-    Variable: dmn application Default - Access
+    Variable: application3 Default - Access
     env: default
 duration: all

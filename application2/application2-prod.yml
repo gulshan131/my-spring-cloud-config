@@ -6,6 +6,6 @@ Thread:
     ThreadCount: 3
 Transient:
   default:
-    Variable: Economics QA - Access
-    env: QA
+    Variable: application#2 PROD - Access
+    env: PROD
 duration: all

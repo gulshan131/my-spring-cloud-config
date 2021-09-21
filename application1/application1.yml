@@ -6,6 +6,6 @@ Thread:
     ThreadCount: 3
 Transient:
   default:
-    Variable: Economics Default - Access
+    Variable: application#1 Default - Access
     env: default
 duration: all
